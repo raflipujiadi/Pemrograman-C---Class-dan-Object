@@ -1,0 +1,26 @@
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.exe
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.deps.json
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.runtimeconfig.json
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.runtimeconfig.dev.json
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.dll
+D:\rafli Pemrogaman\bin\Debug\netcoreapp3.1\rafli Pemrogaman.pdb
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.csprojAssemblyReference.cache
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.csproj.CoreCompileInputs.cache
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.AssemblyInfoInputs.cache
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.AssemblyInfo.cs
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.dll
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.pdb
+D:\rafli Pemrogaman\obj\Debug\netcoreapp3.1\rafli Pemrogaman.genruntimeconfig.cache
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.exe
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.deps.json
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.runtimeconfig.json
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.runtimeconfig.dev.json
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.dll
+D:\Pemrograman C# - Class dan Object\bin\Debug\netcoreapp3.1\rafli Pemrogaman.pdb
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.csprojAssemblyReference.cache
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.csproj.CoreCompileInputs.cache
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.AssemblyInfoInputs.cache
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.AssemblyInfo.cs
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.dll
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.pdb
+D:\Pemrograman C# - Class dan Object\obj\Debug\netcoreapp3.1\rafli Pemrogaman.genruntimeconfig.cache
